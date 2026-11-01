@@ -1,0 +1,7 @@
+/home/kuhu/Documents/Eclectronics-olin/mp3/firmware/blinky/build/_deps/picotool/picotool
+/home/kuhu/Documents/Eclectronics-olin/mp3/firmware/blinky/build/_deps/picotool/picotoolTargets.cmake
+/home/kuhu/Documents/Eclectronics-olin/mp3/firmware/blinky/build/_deps/picotool/picotoolTargets-release.cmake
+/home/kuhu/Documents/Eclectronics-olin/mp3/firmware/blinky/build/_deps/picotool/picotoolConfig.cmake
+/home/kuhu/Documents/Eclectronics-olin/mp3/firmware/blinky/build/_deps/picotool/picotoolConfigVersion.cmake
+/home/kuhu/Documents/Eclectronics-olin/mp3/firmware/blinky/build/_deps/picotool/enc_bootloader.elf
+/home/kuhu/Documents/Eclectronics-olin/mp3/firmware/blinky/build/_deps/picotool/enc_bootloader_mbedtls.elf
